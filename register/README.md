@@ -77,7 +77,7 @@
 |###### |URL内容                  |R/W|                                                                                                             |
 |###### |URL内容                  |R/W|                                                                                                             |
 |###### |URL内容                  |R/W|                                                                                                             |
-|0x177F |URL内容                  |R/W|                                                                                                             |
+|0x17FF |URL内容                  |R/W|                                                                                                             |
 
 - 0x1800 0x19FF  Bootload寄存器
 
